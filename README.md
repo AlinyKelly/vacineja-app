@@ -14,7 +14,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Vacine Já" title="#Vacine Já - App" src="./client/public/assets/banner.png" />
+    <img alt="Vacine Já" title="#Vacine Já - App" src="./assets/banner.png" />
 </h1>
 
 <h4 align="center"> 
@@ -74,9 +74,9 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="Vacine Já" title="#Vacine Já" src="./client/public/assets/home-mobile.png" width="200px">
+  <img alt="Vacine Já" title="#Vacine Já" src="./assets/home-mobile.png" width="200px">
 
-  <img alt="Vacine Já" title="#Vacine Já" src="./client/public/assets/detalhes-mobile.png" width="200px">
+  <img alt="Vacine Já" title="#Vacine Já" src="./assets/detalhes-mobile.png" width="200px">
 </p>
 
 ---
